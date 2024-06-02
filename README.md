@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PATHAK10101
+- 👋 Hi, I’m @PATHAK10101(Priyanshu Pathak).
 - 👀 I’m interested in Travelling as well as Coding.
 - 🌱 I’m currently learning WEB DEVELOPMENT and DSA
 - 💞️ I’m looking to collaborate on Development and analyatical areas..
